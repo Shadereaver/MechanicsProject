@@ -1,3 +1,3 @@
-# Mechanics
+# Project goal
 
-Developed with Unreal Engine 5
+The goal of this project was to learn how to develop mechanics in Unreal Engine 5 blueprint.
